@@ -11,7 +11,6 @@ This way it verifies if the user is trying to use his own account created using 
 Requirements:
 
     - NodeJS (Tested with v16.6.2)
-    - Modules (Use installation to install them)
     - Discord Account with a bot account for bot token
 
 Installation:
