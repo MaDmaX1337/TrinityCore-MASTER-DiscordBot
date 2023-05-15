@@ -16,7 +16,6 @@ Requirements:
 
 Installation:
 
-    - Run "npm install", this will install all dependencies
     - Edit "config.js" and insert all your information: token, usernames, passwords, ...
     - Make sure your AzerothCore server has enabled SOAP.
 
