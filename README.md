@@ -1,3 +1,6 @@
+AzerothCore Discord Bot to TrinityCore MASTER Discord Bot.
+
+
 Bot startup
 ----------------------------
 
@@ -14,7 +17,7 @@ Requirements:
 Installation:
 
     - Run "npm install", this will install all dependencies
-    - Rename "config_template.js" to "config.js" and insert all your information: token, usernames, passwords, ...
+    - Edit "config.js" and insert all your information: token, usernames, passwords, ...
     - Make sure your AzerothCore server has enabled SOAP.
 
 Startup: 
@@ -24,4 +27,4 @@ Startup:
 
 Extra information:
 
-    - Special thanks to Village#9461 (no github) for funding the project.
+    - Special thanks to Village#9461 (no github) for funding the project. (AzerothCore)
