@@ -17,7 +17,7 @@ Requirements:
 Installation:
 
     - Edit "config.js" and insert all your information: token, usernames, passwords, ...
-    - Make sure your AzerothCore server has enabled SOAP.
+    - Make sure your TrinityCore server has enabled SOAP.
 
 Startup: 
 
